@@ -1,0 +1,70 @@
+#header
+{
+    background-color:#8EA8C3;
+    border:8px;
+    border-color:black;
+    border-style:solid;
+}
+
+#header h1
+{
+    text-align:center;
+    color:#B02E0C;
+}
+
+#cpudetails
+{
+    background-color:#8EA8C3;
+    border:8px;
+    border-color:black;
+    border-style:solid;
+}
+
+#cpudetails h1
+{
+    color:#B02E0C;
+}
+
+#cpudetails h3
+{
+    color:#B02E0C;
+}
+
+img
+{
+    width:250px;
+    height:250px;
+}
+
+#cpudetails p
+{
+    color:#B02E0C;
+}
+
+#cpudetails strong
+{
+    color:black;
+}
+
+#references
+{
+    background-color:#8EA8C3;
+    border:8px;
+    border-color:black;
+    border-style:solid;
+}
+
+#references h1
+{
+    color:#B02E0C;
+}
+
+#references h2
+{
+    color:#B02E0C;
+}
+
+#references p
+{
+    color:#B02E0C;
+}
